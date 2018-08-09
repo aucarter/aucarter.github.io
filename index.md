@@ -8,3 +8,5 @@ This suite of visualizations was created to allow users to explore the breadth o
 
 # Tips and Tricks
 The *Detail* slider allows the user to see subnational estimates.
+
+<iframe src="https://aucarter.shinyapps.io/shiny/" scrolling = "no" style="border: 0; width: 850px; height:720px;"></iframe>
